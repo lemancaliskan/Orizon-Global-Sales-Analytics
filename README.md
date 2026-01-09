@@ -23,16 +23,26 @@ Rapor, veri yoğunluğunu kullanıcıyı yormadan sunmak amacıyla minimalist ve
 * **Trend Analizi:** Satışların zamana göre değişimi, mevsimsellik ve büyüme hızı grafiklerle görselleştirilmiştir.
 * **Stratejik Hedef İzleme:** Belirlenen 5M ₺ yıllık hedeflerin gerçekleşme oranı kümülatif olarak takip edilir.
 
+<img src="anasayfa.png" alt="Orizon Ana Dashboard Görünümü" width="800">
+
+
 ### 2. Küresel Performans ve Coğrafi Analiz
 Satışların dünya genelindeki yayılımını incelemek için tasarlanmıştır:
 * **Etkileşimli Harita Analizi:** Ülke bazlı satış hacmi üzerinden dinamik bölge seçimi ve çapraz filtreleme.
 * **Pazar Büyüme Eğilimi:** Haritadaki seçimlere göre anlık güncellenen aylık ve yıllık satış trendleri.
+
+<img src="Sayfa2.png" alt="Orizon Sayfa2 Görünümü" width="800">
+
+
+
 
 ### 3. Operasyonel Verimlilik ve Ürün Odaklı Analiz
 Lojistik süreçlerin ve ürün performansının değerlendirildiği en kapsamlı katmandır:
 * **Kategori ve Ürün Analizi:** En yüksek ciro sağlayan ilk 5 kategori ve ürün grubunun karşılaştırmalı sunumu.
 * **Müşteri ve Pazar Yoğunluğu:** Sipariş adetlerine göre en aktif 5 pazarın belirlenmesi.
 * **Lojistik Dağılımı:** Ürünlerin kargo firmalarına (Aras, Yurtiçi, DHL vb.) göre operasyonel iş yükü analizi.
+
+<img src="Sayfa3.png" alt="Orizon Sayfa3 Görünümü" width="800">
 
 ---
 
